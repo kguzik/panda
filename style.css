@@ -1,6 +1,7 @@
 body {
     box-sizing: border-box;
     margin: 0;
+    background-image: url(images/background.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
